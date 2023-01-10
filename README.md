@@ -266,4 +266,6 @@ dengan hasil seperti gambar dibawah ini
 
 ![Screenshot1](https://user-images.githubusercontent.com/92739297/211432102-02b9fb59-89d8-4e8c-9e4b-98cc09c02223.png)
 
+![Screenshot2](https://user-images.githubusercontent.com/92739297/211432653-88c0bf8e-a837-49c0-bfdc-82978dcc4b9d.png)
+
 by.bagasdwiprasetyo 312110053 TI.21.C5
